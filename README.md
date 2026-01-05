@@ -4,8 +4,8 @@ I am currently studying Computer Science at the University of Parma and piano at
 Here you can find some random projects I've been working on as well as a couple of websites I maintain.
 
 ### My stats 📊
-[![Akmadan23's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmadan23&show_icons=true&hide=stars&theme=github_dark)][stats]
-[![Akmadan23's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmadan23&layout=compact&langs_count=6&hide=css,html&theme=github_dark)][langs]
+[![Akmadan23's GitHub stats](https://akmadan23-github-stats.vercel.app/api?username=akmadan23&show_icons=true&hide=stars&theme=github_dark)][stats]
+[![Akmadan23's Top Langs](https://akmadan23-github-stats.vercel.app/api/top-langs/?username=akmadan23&layout=compact&langs_count=6&hide=css,html&theme=github_dark)][langs]
 
 <details>
   <summary></summary>
