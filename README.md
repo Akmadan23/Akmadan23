@@ -1,7 +1,13 @@
 ### Hi there 👋
 My name is Azad, I live near Reggio Emilia (Italy) and I am a GNU/Linux <!-- I use Arch btw --> and FOSS enthusiast who loves to tinker and configure things.
-I am currently studying Computer Science at the University of Parma and piano at the Conservatory of Reggio Emilia.
 Here you can find some random projects I've been working on as well as a couple of websites I maintain.
+
+### Languages I know 💻
+![My Skills](https://skillicons.dev/icons?i=rust,py,lua,go,java,c,cpp,bash,js,php,html,css&perline=6)
+          
+          
+### Other skills 💡
+![My Skills](https://skillicons.dev/icons?i=linux,git,neovim,docker,mysql,nginx,netlify,kubernetes,vercel,postgres&perline=5)
 
 ### My stats 📊
 [![Akmadan23's GitHub stats](https://akmadan23-github-stats.vercel.app/api?username=akmadan23&show_icons=true&hide=stars&theme=github_dark)][stats]
